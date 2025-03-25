@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Instance Name" start-page="Must x Should.md">
+
+    <toc-element topic="Learn-Greetings.md"/>
+    <toc-element topic="Talk-about-sports.md"/>
+    <toc-element topic="Wh-questions.md"/>
+    <toc-element topic="Must x Should.md"/>
+    <toc-element topic="There.md"/>
+    <toc-element topic="Simple Vocabulary.md"/>
+</instance-profile>
