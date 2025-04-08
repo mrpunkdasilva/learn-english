@@ -1,201 +1,4 @@
-# Learn Compare
-
-## Comparative and Superlative Forms
-
-Comparative and superlative forms are used to compare nouns, adjectives, and adverbs. Here are the rules:
-
-### Nouns:
-
-* Singular: Add '-er' to the end of the noun for comparative and '-est' for superlative. * Example: * Cat (comparative) - cuter * Cat (superlative) - cutest
-
-### Adjectives:
-
-* Regular: Add '-er' to the end of the adjective for comparative and '-est' for superlative. * Example: * Good (comparative) - better * Good (superlative) - best
-
-### Adverbs:
-
-* Regular: Add '-er' to the end of the adverb for comparative and '-est' for superlative. * Example: * Quickly (comparative) - quicker * Quickly (superlative) - quickest
-
-### Irregular Forms:
-
-* Some adjectives and adverbs have irregular forms for comparative and superlative. You can find these forms in dictionaries or online resources.
-
-### Usage:
-
-* Use the comparative form to compare two things or to compare one thing to a standard.
-
-* Use the superlative form to compare more than two things or to emphasize the highest or most extreme level of something.
-
-## Examples and Questions
-
-### Questions:
-
-* Is the cat as cute as the dog?
-
-* Is the car faster than the bike?
-
-* Is the sun brighter than the moon?
-
-### Negatives:
-
-* The cat is not as cute as the dog.
-
-* The car is not faster than the bike.
-
-* The sun is not brighter than the moon.
-
-### Comparative and Superlative Sentences:
-
-* The cat is cuter than the dog.
-
-* The car is the fastest vehicle in the parking lot.
-
-* The sun is the brightest star in the sky.
-
-* The cat is the cutest animal I've ever seen.
-
-* The car is the fastest car I've ever driven.
-
-* The sun is the brightest sun I've ever seen.
-
-
-
-# Learn Greetings
-
-* `right?`
-
-you use to confirm previously statement
-
-Tip:
-
-You're the new developer, right?
-
-* Say hello to team members
-
-Tip:
-
-Hi, I'm Mario, the new developer
-
-* Confirm that some phrase, you can use:
-
-Tip:
-
-that's right
-
-* It's a pleasure to meet you
-
-You say it when it's the first time you meeting someone, that's polite way to greet someone
-
-* Welcome aboard
-
-Is used to greet someone who has just joined a group, or team
-
-Tip:
-
-It's the same: We're glad you're here with us now
-
-* How do you like
-
-When you want to as someone  for their opinion or feelings about something, especially place or an experience you can use:
-
-Tip:
-
-Welcome aboard. How do you like São Paulo so far?
-
-The question is how you feeling about São Paulo: `So far` indicate the time up to the present moment or up to the certain point
-
-* Talk about preferences or feelings
-
-For this you can use: `I like it`
-
-Tip:
-
-I like it. São Paulo is really interesting
-
-* Show something
-
-You can use to display or guide someone to something: `Let me show you to your [place]`
-
-```
-Let me show you to your desk
-```
-
-* Everything looks great
-
-We can use to expressing something it's ok
-
-* How to say my profession?
-
-We can use this to say your profession:
-
-* If you're the unique in your organisation: `I'm the new Tech Leader`
-
-* If you aren't the unique in your organisation: `I'm a developer`
-
-Tip:
-
-We use `the` refer to specific person
-
-* How to say my place of origin
-
-When someone asking me my place of origin: `Where are you from?`
-
-I can answer this question saying: `I'm from Tulipa`
-
-Tip:
-
-Slang: `Where ru from?`
-
-
-
-# Adjectives x Adverbs in English
-
-## Adjectives
-
-Imagine you're painting a picture. An adjective is like a brush that adds color and detail to your subject. For example, if you're painting a picture of a dog, an adjective like "big" would help you describe its size, making it stand out in your painting.
-
-Here's a simple analogy:
-
-* Adjectives are like paint colors.
-
-* Nouns are like the subjects you're painting.
-
-## Adverbs
-
-Now, let's think about adverbs. They're like directions or instructions that tell us how to paint or what to do with our paint. For example, if you're painting a picture of a dog running, an adverb like "quickly" would help you describe the speed of the dog's action, making it more interesting in your painting.
-
-Here's a simple analogy:
-
-* Adverbs are like painting techniques or directions.
-
-* Verbs are like the actions you're painting.
-
-```MERMAID
-graph LR
-    A[Adjectives] --> B[Describe Nouns]
-    A --> C[Add Color and Detail]
-    B --> D[Size]
-    B --> E[Shape]
-    B --> F[Color]
-    A --> G[Paint Colors]
-    B --> H[Subjects]
-    C --> I[Color and Detail]
-    A[Adjectives] --> J[Adverbs]
-    J --> K[Describe Verbs]
-    J --> L[Add Directions]
-    K --> M[Speed]
-    K --> N[Time]
-    K --> O[Place]
-    J --> P[Paint Techniques]
-    K --> Q[Actions]
-    L --> R[Directions]
-    J --> S[Instructions]
-    P --> T[Techniques]
-    Q --> U[Actions]
-    R --> V[Directions]
-    S --> W[Instructions]
-    J --> X[Painting Instructions]
-```
+# Learn English
 
 
 
@@ -518,6 +321,594 @@ Auxiliary Uses
 
 
 
+# Plural Nouns
+
+## Regular Plural Rules
+
+1. Add -s (most cases)
+
+* cat → cats
+
+* dog → dogs
+
+2. Add -es (after s, ss, sh, ch, x, z)
+
+* box → boxes
+
+* church → churches
+
+3. Change -y to -ies (consonant + y)
+
+* city → cities
+
+* baby → babies
+
+## Irregular Plurals
+
+Common irregular forms:
+
+* child → children
+
+* person → people
+
+* foot → feet
+
+* tooth → teeth
+
+## How to Ask About Quantity
+
+### Using "How many"
+
+* Structure: "how" + "many" + plural noun + "?"
+
+* Examples: * How many cookies? * How many books? * How many drinks?
+
+### Countable vs Uncountable
+
+Warning:
+
+Remember: "many" is only used with countable nouns
+
+For uncountable nouns, use "how much":
+
+* How much water?
+
+* How much time?
+
+## Practice Examples
+
+| Singular |Plural |Rule Applied |
+----------------------------------
+| cat |cats |Regular (-s) |
+| box |boxes |Add -es |
+| baby |babies |-y to -ies |
+| child |children |Irregular |
+
+## Patterns to put words in plural
+
+| Ending |Add |Example |
+------------------------
+| ch |es |watch -> watches |
+| y |ies |city -> cities |
+| s |es |bus -> buses |
+| o |oes |photo -> photos |
+| x |xes |box -> boxes |
+| z |zes |quiz -> quizzes |
+| f |ves |wolf -> wolves |
+| sh |es |fish -> fishes |
+| e |s |house -> houses |
+| a |s |alpha -> alphas |
+| i |s |ski -> skis |
+
+
+
+# Adjectives x Adverbs in English
+
+## Adjectives
+
+Adjectives describe nouns (people, places, things).
+
+### Common Patterns
+
+1. Before nouns:
+
+* A happy dog
+
+* The red car
+
+2. After linking verbs:
+
+* She looks beautiful
+
+* The food tastes delicious
+
+### Examples Table
+
+| Adjective |Example |
+----------------------
+| big |The big house |
+| happy |A happy child |
+| cold |The cold weather |
+| beautiful |A beautiful day |
+
+## Adverbs
+
+Adverbs modify verbs, adjectives, or other adverbs.
+
+### Formation
+
+Most adverbs are formed by adding -ly to adjectives:
+
+* quick → quickly
+
+* careful → carefully
+
+* happy → happily
+
+### Usage Examples
+
+1. Modifying verbs:
+
+* She runs quickly
+
+* He speaks softly
+
+2. Modifying adjectives:
+
+* Very happy
+
+* Extremely cold
+
+3. Modifying other adverbs:
+
+* She runs very quickly
+
+* He speaks quite softly
+
+## Common Mistakes to Avoid
+
+1. Don't confuse adjectives and adverbs:
+
+* ❌ She runs quick
+
+* ✅ She runs quickly
+
+2. Remember some adjectives and adverbs have the same form:
+
+* fast → fast
+
+* hard → hard
+
+
+
+# There Is / There Are
+
+## Basic Usage
+
+### Singular (There is / There's)
+
+* Used with singular nouns
+
+* Examples: * There is a book on the table * There's a car in the garage
+
+### Plural (There are)
+
+* Used with plural nouns
+
+* Examples: * There are books on the table * There are three cars in the garage
+
+## Negative Forms
+
+### Singular
+
+* There isn't a book
+
+* There is not a car
+
+### Plural
+
+* There aren't any books
+
+* There are not any cars
+
+## Question Forms
+
+### Singular
+
+* Is there a book?
+
+* Is there any milk?
+
+### Plural
+
+* Are there any books?
+
+* Are there many cars?
+
+## Common Expressions
+
+* There is nothing to worry about
+
+* There are plenty of options
+
+* There's no point in...
+
+* There are lots of...
+
+## Practice Examples
+
+Complete sentences:
+
+1. _____ a cat in the garden (is/are)
+
+2. _____ three dogs outside (is/are)
+
+3. _____ any coffee left? (is/are)
+
+
+
+# WH Questions
+
+## Basic WH Words
+
+| Word |Usage |Example Question |Example Answer |
+-------------------------------------------------
+| What |Things/Actions |What do you like? |I like pizza |
+| When |Time |When do you work? |I work at 9 AM |
+| Where |Place |Where do you live? |I live in London |
+| Who |People |Who is your teacher? |Ms. Smith is my teacher |
+| Why |Reason |Why are you late? |Because of traffic |
+| How |Method/Manner |How do you study? |I study online |
+
+## Question Structure
+
+1. WH word + auxiliary verb + subject + main verb
+
+* What do you want?
+
+* Where does she live?
+
+* When will they arrive?
+
+2. WH word + be verb + subject
+
+* Who is that?
+
+* Where are you?
+
+* What is this?
+
+## Common Patterns
+
+### Present Simple
+
+* What do you do?
+
+* Where does she work?
+
+* When do they play?
+
+### Past Simple
+
+* What did you say?
+
+* Where did he go?
+
+* When did it happen?
+
+### Present Continuous
+
+* What are you doing?
+
+* Where is she going?
+
+* Why are they running?
+
+## Practice Exercises
+
+Create questions for these answers:
+
+1. (What...?) → I'm studying English
+
+2. (Where...?) → She lives in Paris
+
+3. (When...?) → The meeting starts at 2 PM
+
+
+
+# Must x Should
+
+Must -> obligation or necessity
+
+Should -> advice, light obligation
+
+Must is very hardest than should
+
+
+
+# Compare
+
+## Comparative and Superlative Forms
+
+Comparative and superlative forms are used to compare nouns, adjectives, and adverbs. Here are the rules:
+
+### Nouns:
+
+* Singular: Add '-er' to the end of the noun for comparative and '-est' for superlative. * Example: * Cat (comparative) - cuter * Cat (superlative) - cutest
+
+### Adjectives:
+
+* Regular: Add '-er' to the end of the adjective for comparative and '-est' for superlative. * Example: * Good (comparative) - better * Good (superlative) - best
+
+### Adverbs:
+
+* Regular: Add '-er' to the end of the adverb for comparative and '-est' for superlative. * Example: * Quickly (comparative) - quicker * Quickly (superlative) - quickest
+
+### Irregular Forms:
+
+* Some adjectives and adverbs have irregular forms for comparative and superlative. You can find these forms in dictionaries or online resources.
+
+### Usage:
+
+* Use the comparative form to compare two things or to compare one thing to a standard.
+
+* Use the superlative form to compare more than two things or to emphasize the highest or most extreme level of something.
+
+## Examples and Questions
+
+### Questions:
+
+* Is the cat as cute as the dog?
+
+* Is the car faster than the bike?
+
+* Is the sun brighter than the moon?
+
+### Negatives:
+
+* The cat is not as cute as the dog.
+
+* The car is not faster than the bike.
+
+* The sun is not brighter than the moon.
+
+### Comparative and Superlative Sentences:
+
+* The cat is cuter than the dog.
+
+* The car is the fastest vehicle in the parking lot.
+
+* The sun is the brightest star in the sky.
+
+* The cat is the cutest animal I've ever seen.
+
+* The car is the fastest car I've ever driven.
+
+* The sun is the brightest sun I've ever seen.
+
+
+
+# Greetings
+
+* `right?`
+
+you use to confirm previously statement
+
+Tip:
+
+You're the new developer, right?
+
+* Say hello to team members
+
+Tip:
+
+Hi, I'm Mario, the new developer
+
+* Confirm that some phrase, you can use:
+
+Tip:
+
+that's right
+
+* It's a pleasure to meet you
+
+You say it when it's the first time you meeting someone, that's polite way to greet someone
+
+* Welcome aboard
+
+Is used to greet someone who has just joined a group, or team
+
+Tip:
+
+It's the same: We're glad you're here with us now
+
+* How do you like
+
+When you want to as someone  for their opinion or feelings about something, especially place or an experience you can use:
+
+Tip:
+
+Welcome aboard. How do you like São Paulo so far?
+
+The question is how you feeling about São Paulo: `So far` indicate the time up to the present moment or up to the certain point
+
+* Talk about preferences or feelings
+
+For this you can use: `I like it`
+
+Tip:
+
+I like it. São Paulo is really interesting
+
+* Show something
+
+You can use to display or guide someone to something: `Let me show you to your [place]`
+
+```
+Let me show you to your desk
+```
+
+* Everything looks great
+
+We can use to expressing something it's ok
+
+* How to say my profession?
+
+We can use this to say your profession:
+
+* If you're the unique in your organisation: `I'm the new Tech Leader`
+
+* If you aren't the unique in your organisation: `I'm a developer`
+
+Tip:
+
+We use `the` refer to specific person
+
+* How to say my place of origin
+
+When someone asking me my place of origin: `Where are you from?`
+
+I can answer this question saying: `I'm from Tulipa`
+
+Tip:
+
+Slang: `Where ru from?`
+
+
+
+# At a cafe
+
+## Polite way to  order food or drink
+
+* Can I have a cup of coffee?
+
+Tip:
+
+"Can I...?" is more polite than you say "I want" or "Give me"
+
+We can add "please" to ask for something
+
+* Please can I have a cup of coffee?
+
+* Yes please, can I have a cup of coffee?
+
+## Ask for more information
+
+* Anything else?
+
+* Anything else you want?
+
+* Anything else you need?
+
+* Anything else you would like?
+
+## Ask for help
+
+* Can I help you?
+
+* How can I help you?
+
+Tip:
+
+These are good ways to ask for help
+
+## Sounds more polite
+
+When you use "could" you sound more polite
+
+* Could I have a cup of coffee?
+
+* Could I have a cup of coffee, please?
+
+## Use may
+
+You can use "may" to ask for something, and it's the most polite way to ask for something
+
+* May I have a cup of coffee?
+
+* May I have a cup of coffee, please?
+
+## Comparison Table
+
+| Modal Verb |Formality Level |Primary Uses |Examples |Notes |
+--------------------------------------------------------------
+| May |Most formal |- Formal permission - Possibility - Polite requests |- May I come in? - It may rain tomorrow - May I have your attention? |- Used in formal settings - Common in academic writing - Most polite option |
+| Could |Semi-formal |- Past ability - Polite requests - Suggestions - Possibilities |- Could you help me? - I could do it yesterday - This could be interesting |- More polite than "can" - Good for hypotheticals - Used in conditional sentences |
+| Can |Informal |- Ability - Permission - Informal requests - Possibility |- I can swim - Can I go now? - Can you help me? - Accidents can happen |- Most common in daily speech - Direct and simple - Less formal |
+
+## Usage in Different Contexts
+
+### Asking for Permission
+
+From most to least formal:
+
+1. "May I borrow your pen?"
+
+2. "Could I borrow your pen?"
+
+3. "Can I borrow your pen?"
+
+### Making Requests
+
+From most to least formal:
+
+1. "May I ask you a question?"
+
+2. "Could you help me with this?"
+
+3. "Can you give me a hand?"
+
+### Expressing Possibility
+
+* May: "It may rain tomorrow" (50-50 chance)
+
+* Could: "It could rain tomorrow" (less certain)
+
+* Can: "It can rain heavily here" (general possibility)
+
+## Common Mistakes to Avoid
+
+❌ "Can I ask you something?" (informal)
+✅ "May I ask you something?" (formal)
+
+❌ "May I to go?" (incorrect form)
+✅ "May I go?" (correct form)
+
+❌ "Could to help me?" (incorrect form)
+✅ "Could you help me?" (correct form)
+
+## Context-Specific Examples
+
+### At Work
+
+* "May I schedule a meeting with you?" (to superior)
+
+* "Could you review this document?" (to colleague)
+
+* "Can you send me that file?" (to close colleague)
+
+### At School
+
+* "May I be excused?" (to teacher)
+
+* "Could I submit it tomorrow?" (to professor)
+
+* "Can I borrow your notes?" (to classmate)
+
+### In Public
+
+* "May I have your attention, please?" (formal announcement)
+
+* "Could you tell me the time?" (to stranger)
+
+* "Can you move over?" (informal)
+
+Note:
+
+You use may, can, and could to all persons
+
+
+
 # Talk about sports
 
 | UK |USA, Canada, Australia |
@@ -584,50 +975,6 @@ We say it is very noise
 * The verb "to support" means be a fan of a team We support the XiqueXique International
 
 * We use the phrase "to be" + "a" + person / team + "fan" I'm a fan of the XiqueXique International
-
-
-
-# Wh questions
-
-To ask about something more specific ou get more information we can use the "wh" questions
-
-```
-"wh" +  "do" + "person" + "verb" ?
-```
-
-| wh |goal |example |
----------------------
-| What |Thing |What team do you support? |
-| When |Time |When do you play volleyball? |
-| Where |Place |Where do they volleyball? |
-
-
-
-# Must x Should
-
-Must -> obligation or necessity
-
-Should -> advice, light obligation
-
-Must is very hardest than should
-
-
-
-# There
-
-"There" is for appoint somethting:
-
-Tip:
-
-There is -> singular
-There are -> plural
-
-We can use "there" + "to be" for say don't existing something:
-
-Tip:
-
-There isn't
-There aren't
 
 
 

@@ -3,15 +3,39 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="in"
-                 name="Instance Name" start-page="Must x Should.md">
+                 name="Instance Name" start-page="LearnEnglish.md">
 
-    <toc-element topic="Learn Compare.md"/>
-    <toc-element topic="Learn-Greetings.md"/>
-    <toc-element topic="Adjectives-x-Adverbs.md"/>
-    <toc-element topic="Verbs.md"/>
-    <toc-element topic="Talk-about-sports.md"/>
-    <toc-element topic="Wh-questions.md"/>
-    <toc-element topic="Must x Should.md"/>
-    <toc-element topic="There.md"/>
-    <toc-element topic="Simple Vocabulary.md"/>
+    <toc-element topic="LearnEnglish.md"/>
+    
+    <!-- Basic Grammar -->
+    <toc-element toc-title="Grammar Fundamentals">
+        <toc-element topic="Verbs.md"/>
+        <toc-element topic="Plural-Nouns.md"/>
+        <toc-element topic="Adjectives-x-Adverbs.md"/>
+        <toc-element topic="There.md"/>
+        <toc-element topic="Wh-questions.md"/>
+    </toc-element>
+
+    <!-- Modal Verbs -->
+    <toc-element toc-title="Modal Verbs">
+        <toc-element topic="MustxShould.md"/>
+    </toc-element>
+
+    <!-- Comparisons -->
+    <toc-element toc-title="Comparisons">
+        <toc-element topic="LearnCompare.md"/>
+    </toc-element>
+
+    <!-- Practical Conversations -->
+    <toc-element toc-title="Real-Life English">
+        <toc-element topic="Learn-Greetings.md"/>
+        <toc-element topic="At-a-cafe.md"/>
+        <toc-element topic="Talk-about-sports.md"/>
+    </toc-element>
+
+    <!-- Vocabulary -->
+    <toc-element toc-title="Vocabulary">
+        <toc-element topic="SimpleVocabulary.md"/>
+    </toc-element>
+
 </instance-profile>

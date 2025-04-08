@@ -1,46 +1,52 @@
 # Adjectives x Adverbs in English
 
 ## Adjectives
+Adjectives describe nouns (people, places, things).
 
-Imagine you're painting a picture. An adjective is like a brush that adds color and detail to your subject. For example, if you're painting a picture of a dog, an adjective like "big" would help you describe its size, making it stand out in your painting.
+### Common Patterns
+1. Before nouns:
+   - A happy dog
+   - The red car
 
-Here's a simple analogy:
+2. After linking verbs:
+   - She looks beautiful
+   - The food tastes delicious
 
-- Adjectives are like paint colors.
-- Nouns are like the subjects you're painting.
+### Examples Table
+| Adjective | Example |
+|-----------|---------|
+| big | The big house |
+| happy | A happy child |
+| cold | The cold weather |
+| beautiful | A beautiful day |
 
 ## Adverbs
+Adverbs modify verbs, adjectives, or other adverbs.
 
-Now, let's think about adverbs. They're like directions or instructions that tell us how to paint or what to do with our paint. For example, if you're painting a picture of a dog running, an adverb like "quickly" would help you describe the speed of the dog's action, making it more interesting in your painting.
+### Formation
+Most adverbs are formed by adding -ly to adjectives:
+- quick → quickly
+- careful → carefully
+- happy → happily
 
-Here's a simple analogy:
+### Usage Examples
+1. Modifying verbs:
+   - She runs quickly
+   - He speaks softly
 
-- Adverbs are like painting techniques or directions.
-- Verbs are like the actions you're painting.
+2. Modifying adjectives:
+   - Very happy
+   - Extremely cold
 
-```mermaid
-graph LR
-    A[Adjectives] --> B[Describe Nouns]
-    A --> C[Add Color and Detail]
-    B --> D[Size]
-    B --> E[Shape]
-    B --> F[Color]
-    A --> G[Paint Colors]
-    B --> H[Subjects]
-    C --> I[Color and Detail]
-    A[Adjectives] --> J[Adverbs]
-    J --> K[Describe Verbs]
-    J --> L[Add Directions]
-    K --> M[Speed]
-    K --> N[Time]
-    K --> O[Place]
-    J --> P[Paint Techniques]
-    K --> Q[Actions]
-    L --> R[Directions]
-    J --> S[Instructions]
-    P --> T[Techniques]
-    Q --> U[Actions]
-    R --> V[Directions]
-    S --> W[Instructions]
-    J --> X[Painting Instructions]
-```
+3. Modifying other adverbs:
+   - She runs very quickly
+   - He speaks quite softly
+
+## Common Mistakes to Avoid
+1. Don't confuse adjectives and adverbs:
+   - ❌ She runs quick
+   - ✅ She runs quickly
+
+2. Remember some adjectives and adverbs have the same form:
+   - fast → fast
+   - hard → hard

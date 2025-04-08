@@ -1,4 +1,4 @@
-# Learn Greetings
+# Greetings
 
 - `right?`
 
